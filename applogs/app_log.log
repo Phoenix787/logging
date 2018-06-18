@@ -1,0 +1,7 @@
+[INFO ] 2018-06-14 12:18:54.275 [main] Application - Starting Application on Sergeeva with PID 12636 (D:\homework\logging\target\classes started by Ксения Сергеева in D:\homework\logging)
+[INFO ] 2018-06-14 12:18:54.279 [main] Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-14 12:18:55.726 [main] Application - Started Application in 1.69 seconds (JVM running for 2.289)
+[INFO ] 2018-06-14 12:19:06.926 [http-nio-8080-exec-1] ControllerLogging - This is info message
+[WARN ] 2018-06-14 12:19:06.926 [http-nio-8080-exec-1] ControllerLogging - This is warn message
+[ERROR] 2018-06-14 12:19:06.926 [http-nio-8080-exec-1] ControllerLogging - This is error message
+[FATAL] 2018-06-14 12:19:06.926 [http-nio-8080-exec-1] ControllerLogging - This is fatal message
